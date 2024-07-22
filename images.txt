@@ -1,2 +1,3 @@
 nginx
 mysql
+nas-tools/nas-tools:latest
